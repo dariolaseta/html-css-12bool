@@ -1,0 +1,23 @@
+.black{
+    background-color: black;
+}
+
+.green{
+    background-color: #009800;
+}
+
+.yellow{
+    background-color: #ecf209;
+}
+
+.pink{
+    background-color: #d8ba7a;
+}
+
+.brown{
+    background-color: #673200;
+}
+
+main{
+    scale: 0.6;
+}
