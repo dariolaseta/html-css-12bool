@@ -1,3 +1,11 @@
+section.sixth-row{
+    margin-bottom: 3rem;
+}
+
+section.sixth-row [class*="col-"]{
+    height: 75px;
+}
+
 .rectangle{
     color: white;
     padding: 1rem;
