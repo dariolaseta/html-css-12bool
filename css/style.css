@@ -1,7 +1,23 @@
 .rectangle{
     color: white;
-    background-color: #006cfa;
     padding: 1rem;
     text-align: center;
     margin: .05rem;
+}
+
+.nested{
+    background-color: #01e165;
+    margin: .05rem;
+}
+
+.blue{
+    background-color: #006cfa;
+}
+
+.padding{
+    padding: .6rem;
+}
+
+.border{
+    border: 1px solid white;
 }
